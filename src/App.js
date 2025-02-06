@@ -8,6 +8,6 @@ export default function App()
 function Wel()
 {
   return(
-  <p>checking new branch</p>
+  <p>merging branch</p>
 )
 }
