@@ -79,7 +79,7 @@ We welcome contributions big and small! Here's how you can help:
 |----------------------|-------------------------------------------------------------------------|
 | 🐞 Report Issues     | [GitHub Issues](https://github.com/ihsansaif/Far-Away-Travel-React/issues)       |
 | 💬 General Questions | [GitHub Discussions](https://github.com/ihsansaif313/Far-Away-Travel-React/discussions) |
-| 📩 Email Support     | [packmate@example.com](mailto:packmate@example.com)                    |
+| 📩 Email Support     | [packmate@example.com](mailto:ihsansaifedwardion@gmail.com)                    |
 
 
 ## 🌟 Support the Project
