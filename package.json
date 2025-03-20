@@ -1,5 +1,5 @@
 {
-   "homepage": "https://ihsansaif313.github.io/Far-Away-Travel-React",
+  "homepage": "https://ihsansaif313.github.io/Far-Away-Travel-React",
   "name": "far-away",
   "version": "0.1.0",
   "private": true,
@@ -10,8 +10,8 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-      "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
