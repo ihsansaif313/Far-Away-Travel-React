@@ -83,7 +83,7 @@ input {
   align-items: center;
 }
 
-.actions button,
+.action button,
 .list select {
   text-transform: uppercase;
   padding: 0.8rem 2.4rem;
